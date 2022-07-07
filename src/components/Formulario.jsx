@@ -64,13 +64,13 @@ const  Formulario = ()=> {
 
                 <div className="mb-5">
                     <label htmlFor="alta" className="block text-gray-700 uppercase font-bold">
-                        Sìntomas
+                        Síntomas
                     </label>
 
                     <textarea
                         id="sintomas"
                         className="border-2 w-full p-2 mt-2 placeholder-gray-400 rounded-md"
-                        placeholder="Describe los Sìntomas"
+                        placeholder="Describe los Síntomas"
                     />
                 </div>
 
